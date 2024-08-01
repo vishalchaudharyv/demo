@@ -1,3 +1,3 @@
 # demo
-this is demo mode
+this is Ngo website
 --vishal chaudhary
